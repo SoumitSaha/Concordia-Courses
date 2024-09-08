@@ -1,0 +1,4 @@
+#Ignore all video files
+*.mp4
+#Ignore all zipped dataset
+*.tar.gz
